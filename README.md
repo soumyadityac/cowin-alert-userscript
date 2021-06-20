@@ -9,7 +9,7 @@
 	* Dolphin - install [Tampermonkey](https://tampermonkey.net/?ext=dhdg&browser=dolphin).
 	* UC Browser - install [Tampermonkey](https://tampermonkey.net/?ext=dhdg&browser=ucweb).
 
-2. Click here to [install][https://github.com/soumyadityac/cowin-alert-userscript/raw/main/index.user.js] the userscript.
+2. Click here to [install](https://github.com/soumyadityac/cowin-alert-userscript/raw/main/index.user.js) the userscript.
 
 3. With the user script installed, login to the co-win portal and select 'Schedule' option against any of the registered users.
 
